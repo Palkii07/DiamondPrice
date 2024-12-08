@@ -4,3 +4,4 @@ flask
 matplotlib
 scikit-learn
 gunicorn
+pymongo
